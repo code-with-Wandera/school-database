@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "seema",
+    "place": "Mumbai",
+    "phone": "09876543"
+  },  
+  {
+    "id": "2",
+    "name": "Neema",
+    "place": "Bengaluru",
+    "phone": "079876543"
+  }
+]
